@@ -17,9 +17,9 @@ Finally, I followed the Mobile App Workshop to create the Temperature Converter 
 
 ![Temp Converter App](/Temp%20Converter/temp.JPG)
 
-This link is for a YouTube video I created. It is a 4-5 minute demo of the app running and a walkthrough of the code.
+This link is for a YouTube video I created. It is a 5 minute demo of the app running and a walkthrough of the code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/stN6WR21dSw)
 
 # Development Environment
 
